@@ -1,9 +1,11 @@
 # Basic Project
 
- Basic Java Maven Project Structure
+ Basic Selenium Project Structure
 
- * QA
- * Java
+ * Java 7
  * Maven
+ * TestNG
+ * Selenium 
 
- [Jean-francois Nepton](http://sqasolution.com)
+ [Esra Ince](https://github.com/incesra)
+ 
